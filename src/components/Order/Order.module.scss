@@ -1,0 +1,21 @@
+.order {
+	border: 1px solid #bebebe;
+	border-radius: 20px;
+	padding: 20px;
+	width: 100%;
+}
+
+.orderNum {
+	color: #87c20a;
+}
+
+.orderItems {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 20px;
+}
+
+.totalPrice {
+	text-align: right;
+}
